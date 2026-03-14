@@ -106,7 +106,7 @@ export default function App() {
             className="relative aspect-square lg:aspect-[4/5] bg-slate-200 rounded-3xl overflow-hidden group"
           >
             <img 
-              src="public\images\fotoshofi.jpeg" 
+              src="/images/fotoshofi.jpeg" 
               alt="Shofi Nurul Aini"
               className="w-full h-full object-cover transition-all duration-700"
               referrerPolicy="no-referrer"
